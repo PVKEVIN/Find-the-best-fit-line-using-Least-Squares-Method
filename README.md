@@ -60,6 +60,7 @@ plt.show()
   0.80405405  4.12331081  7.44256757 12.97466216]
 ```
 
+![image](https://github.com/user-attachments/assets/5731a667-2476-4998-89ce-3a6d0bc1de87)
 
 ![best fit line](sam.png)
 
